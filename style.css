@@ -22,7 +22,7 @@
     left: 0;
     right: 0;
     height: 60px;
-    padding-left: 300px;
+    /* padding-left: 300px; */
     /* width: 100vh; */
 }
 
@@ -34,4 +34,9 @@
 .text{
     width: 50px;
     border: solid 1px #ccc;
+}
+
+.footer {
+    background-color: rgb(228, 164, 92);
+    padding: 20px;
 }
